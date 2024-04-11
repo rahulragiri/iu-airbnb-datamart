@@ -1,10 +1,10 @@
 # Airbnb-inspired Booking System Database
 ***
 ## Table of content
-- [Introduction](#Introduction)
-- [Enhanced Entity Relationship (EER) Diagram](#Enhanced-Entity-Relationship-(EER)-Diagram)
-- [Installation Instruction](#Installation-Instruction)
-- [Contribution](#Contribution)
+- [Introduction](#introduction)
+- [Enhanced Entity Relationship EER Diagram](#enhanced-entity-relationship-eer-diagram)
+- [Installation Instruction](#installation-instruction)
+- [Contribution](#contribution)
 
 ### Introduction
 ***
@@ -15,7 +15,7 @@ This project builds a data management system for an Airbnb-inspired hotel bookin
 * Transparent Reviews: Leave and read reviews for both listings and users.
 * Direct Communication: Communicate directly with hosts through a secure system.
 
-### Enhanced Entity Relationship (EER) Diagram
+### Enhanced Entity Relationship EER Diagram
 ***
 ![airbnb_updated_er_diagram](https://github.com/rahulragiri/iu-airbnb-datamart/assets/129837599/c9cdf69f-43ac-4075-a5f1-1aba9577759a)
 
