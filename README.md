@@ -3,7 +3,7 @@
 ## Table of content
 - [Introduction](#Introduction)
 - [Entity-Relationship-Diagram(ERD)](#Entity-Relationship-Diagram(ERD))
-- [Installation](#installation Instruction)
+- [Installation](#Installation Instruction)
 - [Contribution](#Contribution)
 
 ### Introduction
