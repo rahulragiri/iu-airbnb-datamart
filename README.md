@@ -2,8 +2,8 @@
 ***
 ## Table of content
 - [Introduction](#Introduction)
-- [Entity-Relationship-Diagram(ERD)](#Entity-Relationship-Diagram(ERD))
-- [Installation Instruction](#Installation Instruction)
+- [Entity-Relationship-Diagram(ERD)](#entity-relationship-diagram(erd))
+- [Installation Instruction](#installation instruction)
 - [Contribution](#Contribution)
 
 ### Introduction
