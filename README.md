@@ -2,8 +2,8 @@
 ***
 ## Table of content
 - [Introduction](#Introduction)
-- [Enhanced Entity-Relationship(EER) DIAGRAM](#EnhancedEntity-Relationship(EER)DIAGRAM)
-- [Installation Instruction](#installationinstruction)
+- [Enhanced Entity-Relationship(EER) DIAGRAM](#Enhanced-Entity-Relationship(EER)-DIAGRAM)
+- [Installation Instruction](#installation-instruction)
 - [Contribution](#Contribution)
 
 ### Introduction
