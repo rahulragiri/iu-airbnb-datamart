@@ -2,7 +2,7 @@
 ***
 ## Table of content
 - [Introduction](#Introduction)
-- [ERD: Entity-Relationship-Diagram](#ERD:Entity-Relationship-Diagram)
+- [ERD: Entity-Relationship-Diagram](#ERD: Entity-Relationship-Diagram)
 - [Installation Instruction](#installation instruction)
 - [Contribution](#Contribution)
 
